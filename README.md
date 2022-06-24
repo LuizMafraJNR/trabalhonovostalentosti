@@ -2,5 +2,5 @@
 
 <div align="center">
 <img src="https://github.com/LuizMafraJNR/trabalhonovostalentosti/blob/master/Diagrama%20de%20Classes.png">
-<img src="">
+<img src="https://github.com/LuizMafraJNR/trabalhonovostalentosti/blob/master/DiagramadeClasses2.png">
 </div>
